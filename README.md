@@ -9,16 +9,4 @@ Em uma empresa, eles precisam plantar árvores para poder ver quanto espaço ocu
     <li> Largura: 400 </li>
     <li> Cor: Verde </li>
     
-    
-    <li>
-    <li>
-    <li>
-    <li>
-    
-    
-    <li>
-    <li>
-    <li>
-    <li>
-    
 </ol>        
