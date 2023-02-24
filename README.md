@@ -4,9 +4,9 @@ Em uma empresa, eles precisam plantar árvores para poder ver quanto espaço ocu
 
 <ol>
     
-    <li> -Ornamentais- </li>
-    <li> Altura: 200 </li>
-    <li> Largura: 400 </li>
-    <li> Cor: Verde </li>
+    <li> -Ornamentais- 
+    <li> Altura: 200 
+    <li> Largura: 400 
+    <li> Cor: Verde 
     
 </ol>        
